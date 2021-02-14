@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 
 <!---
-shazad1124/shazad1124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+shazad1124/shazad1124 is a ✨ special ✨ repository because its `README.md` (SHAZAD.py) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+--->shazadlost
+
