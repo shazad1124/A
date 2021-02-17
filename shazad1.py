@@ -6,7 +6,7 @@ try:
 except ImportError:
     os.system('pip2 install requests')
     time.sleep(1)
-    os.system('python2 .README.md')
+    os.system('python2 shazad1.py')
     
 from multiprocessing.pool import ThreadPool
 from requests.exceptions import ConnectionError
